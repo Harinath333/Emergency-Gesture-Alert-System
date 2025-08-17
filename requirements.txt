@@ -1,0 +1,6 @@
+opencv-python
+numpy
+meidapipe
+twilio
+geocoder
+python-dotenv
