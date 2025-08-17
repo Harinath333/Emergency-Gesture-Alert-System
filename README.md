@@ -1,6 +1,6 @@
 # Real-time Emergency Hand Gesture Detection 🚨✋
 
-**Hack Beyond Limits Online Odyssey Project: Real-time emergency hand gesture detection & SMS/WhatsApp alert system using Mediapipe + Twilio**  
+**Hack Beyond Limits Online Odyssey Project**: Real-time emergency hand gesture detection & SMS/WhatsApp alert system using Mediapipe + Twilio 
 
 ## 🔹 Features
 - Detects emergency gestures (SOS, distress, kidnap alert) using [Mediapipe Hands](https://developers.google.com/mediapipe/solutions/vision/hand_landmarker).
